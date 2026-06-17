@@ -37,11 +37,33 @@ Generic AI tools don't understand the English National Curriculum. MagiTeacher d
 
 MagiTeacher transforms 3 inputs into a classroom-ready resource in seconds:
 
-**1. The Class** — Select your Year Group and Subject  
-**2. The Resource** — Choose one of 28 resource types and enter your topic  
-**3. The Personalisation** — Set difficulty, length, and add context for differentiation  
+**1. The Class** — Year Group, Subject, and Topic
+**2. The Output** — Resource type, Difficulty, and Length
+**3. The Personalisation** — Context (Details / Specifics / Theme)
 
 → Your resource is generated and ready to copy, edit, and teach.
+
+---
+
+## The Context Field — Where the Magic Happens
+
+The third input — **The Personalisation** — is the most powerful and most 
+underused part of MagiTeacher.
+
+The Context field is a free-text space where you tell the AI exactly what 
+angle, theme, or depth you want. The same topic can produce radically 
+different resources depending on what you write here.
+
+- 🎨 **Add a theme** — "Frame this around a Spider-Man mission scenario"
+- 🔍 **Narrow the topic** — "Focus on Act 3 Scene 1 only, not the full play"
+- 👥 **Describe your class** — "Low-ability Year 8, struggles with extended writing"
+- 🧠 **Give a pedagogical direction** — "Apply a Concrete-Pictorial-Abstract sequence"
+- 🎯 **Add exam precision** — "Focus on AO1 and AO3, use mark scheme language"
+
+The imagination is the limit. The more deliberately you use Context, the 
+more useful your outputs become.
+
+👉 [Full Context Guide — with 10 real examples](https://github.com/magiteacher/context-guide)
 
 ---
 
@@ -87,7 +109,7 @@ MagiTeacher transforms 3 inputs into a classroom-ready resource in seconds:
 - Parent Newsletter Snippets
 - Reflective Practice
 
-→ Full details and examples for each resource type: 
+→ Full details and examples for each resource type:
 [resource-types](https://github.com/magiteacher/resource-types)
 
 ---
@@ -109,7 +131,7 @@ across the whole institution:
 - 🎓 Custom training and onboarding sessions
 - 💳 Bulk licensing & centralised billing
 
-👉 [Contact us for a School Partnership](https://magiteacher.com/help-and-partnerships?utm_source=github&utm_medium=referral&utm_content=org_profile_readme#schoolpartnership)
+👉 [Contact us for a School Partnership](https://magiteacher.com/help-and-partnerships?utm_source=github&utm_medium=referral&utm_content=org_profile_readme)
 
 ---
 
@@ -123,3 +145,20 @@ across the whole institution:
 | **School** | Unlimited | *Custom* |
 
 No credit card required to start.
+
+---
+
+## 📚 MagiTeacher on GitHub
+
+| Repository | What's Inside |
+|---|---|
+| 📘 [resource-types](https://github.com/magiteacher/resource-types) | All 28 resource types explained in detail with examples |
+| 🎯 [context-guide](https://github.com/magiteacher/context-guide) | How to use the Context field to get better resources |
+
+---
+
+## Generate Your Own
+
+Try MagiTeacher free — 5 credits, no credit card required.
+
+👉 [magiteacher.com](https://magiteacher.com/?utm_source=github&utm_medium=referral&utm_content=org_profile_readme)
