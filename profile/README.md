@@ -117,9 +117,9 @@ across the whole institution:
 
 | Plan | Credits | Price |
 |------|---------|-------|
-| Free | 5 credits to try | £0 |
-| Teacher Pro 100 | 100/month | £5.89/month |
-| Teacher Pro 300 | 300/month | £8.39/month |
-| School | Unlimited | Custom |
+| **Free** | 5 credits to try | *£0* |
+| **Teacher Pro 100** | 100/month | *£5.89/month* |
+| **Teacher Pro 300** | 300/month | *£8.39/month* |
+| **School** | Unlimited | *Custom* |
 
 No credit card required to start.
